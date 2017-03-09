@@ -1,0 +1,69 @@
+{
+	"title":"基于BIM的智能施工放样",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/38-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"BIM放样与传统放样方式对比",
+			"content":"<table><tr><td>BIM放样</td><td>传统方法</td></tr><tr><td>1人即可完成</td><td>一般需要3个人</td></tr><tr><td>基于BIM直观操作</td><td>需要图纸进行计算</td></tr><tr><td>1~2次操作锁定放样点</td><td>多次选择方可确定</td></tr><tr><td>操作简单无需人工计算</td><td>手工计算轴线和距离</td></tr><tr><td>同步实测、自动记录</td><td>人工记录数据</td></tr><tr><td>自动检查放样结果</td><td>再次放样复查</td></tr><tr><td>自动整平设站更快</td><td>手动调节</td></tr></table>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"基于BIM的智能施工放样系统",
+			"content":"<p>自主开发施工放样APP，可在智能移动平板上浏览BIM模型，三维展示，全方位便捷提取特征点进行放样。智能移动平板通过无线网络连接到自动智能型全站仪，向全站仪发送指令和特征点坐标，遥控操作，并且动态读取全站仪的测量结果。通过全站仪导向光、自动跟踪测量、放样软件图形/文字/语音等多种提示，智能地帮助作业人员快捷准确地完成放样和测量。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/38-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"BIM放样的软硬件和特点",
+			"content":"<strong>GeoBIM-LayoutBIM放样APP</strong><p>1.采用跨平台的移动BIM；</p><p>2.针对施工放样深度开发；</p><p>3.直接与PC端交换模型、数据，不依赖云服务器；</p><p>4.在模型上直接选择放样点；</p><p>5.支持Android平板电脑。</p><strong>Topcon LN-100三维测量机器人</strong><p>1.专门为建筑放样而设计；</p><p>2.简化到只有三个操作键；</p><p>3.自动安平；</p><p>4.导向光；</p><p>5.WIFI连接；</p><p>6.测量范围：0.9·100米。</p><strong>REVIT</strong><p>1.专门为建筑信息模型（bim）构建的系列软件；</p><p>2.我国建筑业BIM体系中使用最为广泛的软件；</p><p>3.创建BIM模型可以减少错误和浪费；</p><p>4.方便多方沟通设计意图，优化团队合作；</p><p>5.强大的捕捉和分析功能，保证设计与施工的一致性；</p><p>6.精确设计分析暖通、电器和排水系统。</p><strong>Topcon SX-101自动型全站仪</strong><p>1.蓝牙连接；</p><p>2.放样范围：600米；</p><p>3.可免棱镜测量，测程1,000米；</p><p>4.测角精度：1；</p><p>5.测距精度(单棱镜) ：1.5mm+2ppm。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/38-2.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"BIM放样操作步骤",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/38-3.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"数据准备",
+			"content":"<strong>创建项目：导入对应BIM模型、轴网，模型格式转换，放样点：在模型上指示</strong><p>1.选择模型中的构件；</p><p>2.自动获得全部特征点；</p><p>3.统一指定点号；</p><p>4.筛选；</p><p>5.确认加入坐标列表。</p><p>6.可以构造辅助点。</p><div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/38-4.jpg' />（导入放样点数据）<img src='http://ojesqsnhi.bkt.clouddn.com/38-5.jpg' />（点击模型提取目标点）<img src='http://ojesqsnhi.bkt.clouddn.com/38-6.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/38-7.jpg' />（模型上点击创造目标点）</div>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"快速架设仪器",
+			"content":"<strong>注意：</strong><p>采用后方交会法可根据需要选取任意合适位置，粗略整平仪器，确保其水平偏差在±3°范围内，一键开机，仪器便可自动安平，大大提高整平效率。</p><div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/38-8.jpg' />（一键开机、自动安平）<img src='http://ojesqsnhi.bkt.clouddn.com/38-9.jpg' />（连接全站仪，锁定棱镜）<img src='http://ojesqsnhi.bkt.clouddn.com/38-10.jpg' />（棱镜放置在已知点）<img src='http://ojesqsnhi.bkt.clouddn.com/38-11.jpg' />（后方交会法设站）</div>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"放样",
+			"content":"<div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/38-12.jpg' />1、显示目标点方位<img src='http://ojesqsnhi.bkt.clouddn.com/38-13.jpg' />2、移动棱镜<img src='http://ojesqsnhi.bkt.clouddn.com/38-14.jpg' />3、实时显示棱镜位置、移动方向和距离<img src='http://ojesqsnhi.bkt.clouddn.com/38-15.jpg' />4、放样点确定，现场标记</div>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"放样数据导出",
+			"content":"<p>放样或测量完成后，可进行测量成果的导出，导出的测量成果包括：点名称，X、Y、Z三维坐标数据，备注描述等。方便测量成果的后续应用及填写验收表等。</p><img src='http://ojesqsnhi.bkt.clouddn.com/38-16.jpg' />",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"工程应用情况",
+			"content":"<p>通过基于移动BIM和自动型全站仪LN-100的施工放样技术在项目实际应用，减少了测量放样人数，提高了测量放样效率，降低了测量作业成本，实现了BIM在施工放样领域的深入应用，充分发挥了BIM的工程价值，得到了测量及其他管理人员的一致好评。</p><p>该项技术直接用BIM模型指挥放线，有利于保证施工符合设计；放线结果同步实测，并将数据直接、客观地返回给测量及BIM技术人员，也可用于实测检核，有利于创建现场实际竣工模型。该项技术将BIM技术真正应用于施工放样领域，实现BIM在施工中的落地应用，充分发挥BIM的工程价值，满足行业及社会发展的时代需要，有良好的推广应用价值，社会效益明显。</p><img src='http://ojesqsnhi.bkt.clouddn.com/38-17.jpg' />",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

@@ -1,0 +1,27 @@
+{
+	"title":"隧道内有毒有害气体检测报警系统",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/22-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"系统简介",
+			"content":"<p><strong>位检测置:</strong>盾构机开仓气体检测、螺旋输送机出渣口气体检；</p><p><strong>检测气体种类:</strong>CO2 CO CH4 SO2 H2S等有毒有害、可燃性气体；</p><p><strong>检测气体频率:</strong>每次盾构机开仓进行气体检测；</p><p><strong>检测仪设备:</strong>便携式、固定式。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"现场实物展示",
+			"content":"<p><img src='http://ojesqsnhi.bkt.clouddn.com/22-1.jpg' />便携式气体检测仪</p><p><img src='http://ojesqsnhi.bkt.clouddn.com/22-2.jpg' />固定式气体检测仪</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"设备优势",
+			"content":"<p><strong>便携式气体检测仪:</strong>它操作方便，体积小巧，佩戴在施工人员身上，起到个人防护的作用。可燃气体检测仪（LEL）、光离子化检测仪（PID）和复合式气体检测仪大都采用可充电电池，使得它们一般可以连续工作近12小时；</p><p><strong>固定式气体检测仪:</strong>它可以安装在特定的检测点上对特定的气体泄漏进行检测。内置微处理器，即插即用，低能耗、极少的维护要求，防爆设计，防腐蚀外壳受温度、风、粉尘及潮湿影响小。内置自动校验归零及自动补偿程序，具有精度高，线性好等特点。</p>",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

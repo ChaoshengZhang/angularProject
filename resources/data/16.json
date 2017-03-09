@@ -1,0 +1,38 @@
+{
+	"title":"塔式起重机视频安全管理系统",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/16-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"产品背景",
+			"content":"<p>目前，市场上的塔吊防碰撞系统主要是由主机和各类传感器组合而成的成套集成系统，信息化程度高，实用性不高。但价格昂贵，安装复杂，很难被中小型项目广泛采纳。</p><p>是否可以设计一种简单廉价的产品也能有效避免塔吊碰撞事故，成为我们设备管理人员积极探索的课题。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/16-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"产品原理",
+			"content":"<p>经过不断摸索和改进，我们设计出了一种防碰撞系统，以塔吊小车定位警示为基础使司机和指挥在复杂条件下仅靠肉眼就能清晰了解相邻塔吊的小车及钢丝绳位置，只需操作得当，就可以有效避免碰撞。同时还在该系统内集成了垂直起吊警示系统，以避免歪拉斜吊的情况发生。</p><p>系统主要由太阳能警示灯、光伏板、蓄电池、电路板 、激光射灯和遥控装置六部分组成。</p><p>由光伏板收集电能储存在蓄电池内，需要使用该系统时，通过遥控装置打开，警示灯闪烁提示小车行驶的位置，激光射灯垂直照射确保垂直起吊。</p><p>注：供电、储电、用电为12V，定向电源插接正极、负极不得调换位置。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/16-2.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/16-3.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/16-4.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"运行情况",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/16-5.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/16-6.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/16-7.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/16-8.jpg"
+			],
+			"summary":"<img src='http://ojesqsnhi.bkt.clouddn.com/16-9.jpg' /><p>激光射灯的光柱在夜间清晰可见，当地面指挥人员看到光斑与吊钩重合时，即代表吊钩已垂直，可直接起落钩，从而规避歪拉斜吊。</p><img src='http://ojesqsnhi.bkt.clouddn.com/16-10.jpg' /><p>如项目有需要，也可以加装视频监控系统，司机在驾驶室内可对起落钩情况一目了然。</p>"
+		}
+	],
+	"endword":""
+}

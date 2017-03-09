@@ -1,0 +1,34 @@
+<div id="detail">
+	<div class="main-title">
+		<span ng-bind-html="detailContent.title|myFilter"></span>
+		<span class="edge edge-1"></span>
+		<span class="edge edge-2"></span>
+		<span class="edge edge-3"></span>
+		<span class="edge edge-4"></span>
+	</div>
+	<div class="text" ng-hide="detailContent.describle == ''">
+		<div ng-bind-html="detailContent.describle|myFilter"></div>
+	</div>
+	<div class="img" ng-hide="detailContent.mainImgSrc == ''">
+		<img ng-src="{{detailContent.mainImgSrc}}" alt="">
+	</div>
+	<div class="typical" ng-repeat="data in detailContent.typical">
+		<div class="sub-title" ng-hide="data.subtitle == ''">
+			<span ng-bind-html="data.subtitle|myFilter"></span>
+		</div>
+		<div class="text" ng-hide="data.content == ''">
+			<div ng-bind-html="data.content|myFilter"></div>
+		</div>
+		<div class="img" ng-hide="data.imgList == ''">
+			<img ng-repeat="imgdata in data.imgList" ng-src="{{imgdata}}" alt="">
+		</div>
+		<div class="text" ng-hide="data.summary == ''">
+			<div ng-bind-html="data.summary|myFilter"></div>
+		</div>
+	</div>
+	<div class="demo" ng-hide="detailContent.endword == ''">
+		<div ng-bind-html="detailContent.endword|myFilter"></div>
+	</div>
+	<audio ng-src="{{sce(detailContent.audioSrc)}}" autoplay id="audio" hidden></audio>
+	<a id="audioBnt" ng-class="{active:audioPlay}" ng-click="audioBtnToggle()">控制按钮</a>
+</div>

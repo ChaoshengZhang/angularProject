@@ -1,0 +1,26 @@
+{
+	"title":"盾构施工远程实时监控系统",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/10-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"主要功能",
+			"content":"<p>该系统由自动量测系统和监控信息管理系统构成，具有施工现场实时监控、监测数据远程采集、监控数据访问与查询、数据反馈与地层变形预测等功能。自动量测系统通过实时数据采集平台、数据传输网络和地面监控中心，构建隧道施工量测数据自动采集平台。监控信息管理系统包括系统设置、监控信息管理、预测及反馈分析、信息输出及系统工具等功能模块,实现监控信息的维护、查询及多种形式的信息输出。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"盾构安全施工远程实时监控",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/10-1.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/10-2.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/10-3.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/10-4.jpg"
+			],
+			"summary":"<p>主监控界面，记录盾构机的各项参数。包括掘进速度、刀盘转速、推进位移、油缸压力、土仓压力等等。</p><p>盾构机姿态，记录刀盘、盾尾偏离中心轴线的距离，这样能够控制盾构机的掘进方向。</p>"
+		}
+	],
+	"endword":""
+}

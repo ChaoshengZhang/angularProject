@@ -1,0 +1,49 @@
+{
+	"title":"BIM与3D打印",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/47-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"3D打印概述",
+			"content":"<p>3D打印技术（3 Dimensional Printing），即快速成型技术的一种，它是一种以数字模型文件为基础，运用粉末状金属或塑料等可粘合材料，通过逐层打印的方式来构造物体的技术，国外称为增材制造，其基本原理是离散-堆积原理。<img src='http://ojesqsnhi.bkt.clouddn.com/47-1.jpg' /></p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"3D打印主要技术方法",
+			"content":"<p><img src='http://ojesqsnhi.bkt.clouddn.com/47-2.jpg' /></p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"3D打印发展",
+			"content":"<p>近年来，3D打印技术也成为第三次工业革命的重要标志之一。已经应用到很多领域，如：工业设计、建筑工程、地理信息系统、航天航空、军工等方面。3D打印在建筑工程领域的应用不仅仅局限于整体的3D打印建筑，在复杂构件制作、微缩模型（方案展示模型、风洞模拟模型、沙盘等）制作等方面均有应用，将BIM模型直接用3D打印机打印出来。</p><div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/47-3.jpg' />（3D打印BIM模型）<img src='http://ojesqsnhi.bkt.clouddn.com/47-4.jpg' />（央视新址CCTV大楼）<img src='http://ojesqsnhi.bkt.clouddn.com/47-5.jpg' />（3D打印BIM模型）<img src='http://ojesqsnhi.bkt.clouddn.com/47-6.jpg' />（深圳国际贸易中心大厦）</div>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"基于BIM的3D打印预制构件拼装沙盘",
+			"content":"<p>工程项目在设计阶段利用3D打印机将BIM模型微缩打印出来，供方案展示、审查和模拟分析；建造阶段采用3D打印机直接将BIM模型打印成实体构件和整体建筑，部分替代传统施工工艺来建造建筑。</p><img src='http://ojesqsnhi.bkt.clouddn.com/47-7.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/47-8.jpg' /><p>在中建·深港新城项目中，尝试BIM技术与3D打印的集成应用，在装配式结构设计完成后，采用3D打印技术打印出各类预制构件，就是用3D打印机把BIM模型直接打印出预制外墙板、内墙板、预制阳台、叠合梁、叠合板等预制构件，用等比例缩小的实物展现构件的设计细节，提前发现设计中的“错漏碰缺”等问题。</p><img src='http://ojesqsnhi.bkt.clouddn.com/47-9.jpg' /><p>同时向管理人员和工人展示装配式结构的施工工艺，同时将所有构件拼成一个标准层整体，模拟装配式结构拼装全过程，为现场质量管控提供服务。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/47-10.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/47-11.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/47-12.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"三维场布3D打印BIM沙盘",
+			"content":"<p>在联想武汉研发基地项目中，尝试BIM技术与3D打印的集成应用，对三维场布3D打印BIM沙盘进行了探索。</p><img src='http://ojesqsnhi.bkt.clouddn.com/47-13.jpg' /><p>三维场布3D打印BIM沙盘，就如同战争时期的作战沙盘一样，项目平时把这个BIM沙盘放在会议室当做施工部署、场地布置和调整的工具。办公区临建、塔吊、钢筋车间、堆场、机械等均可手动调整，在沙盘上对现场的布置进行部署、规划和演练，可以更加直观、深刻的反映项目场地布置和CI设计情况，实时反映现场的最新动态，找出最优方案，优化资源配置，有效节约成本，提升项目品质。</p><img src='http://ojesqsnhi.bkt.clouddn.com/47-14.jpg' /><p>BIM与3D打印集成应用过程中，从BIM模型直接导出打印模型，用3D打印机输出BIM实体构件和节点，明显提高了深化设计、模型会审、设计与技术交底等工作效率，有助于提高复杂工艺、重点部位的施工质量。</p><img src='http://ojesqsnhi.bkt.clouddn.com/47-15.jpg' />",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"案例",
+			"content":"<p>案例1：2016年3月18日上午，由中国建筑业协会工程建设质量管理分会主办的国家级住宅产业化基地和装配式施工技术现场观摩会在中建深港新城项目顺利召开，来自全国各省市自治区的建筑业协会领导，以及湖北省、武汉市相关部门领导，全国各地建设单位、咨询单位、监理单位、施工单位的相关领导以及同行业人员500余人参加本次观摩。基于BIM的3D打印预制构件拼装沙盘取得了良好的效果，吸引了参会人员的眼球，得到参会领导和建筑同行的充分肯定。</p><img src='http://ojesqsnhi.bkt.clouddn.com/47-16.jpg' /><p>案例2：2016年4月15日下午，由中国安装协会主办的“国家级BIM技术应用及信息化管理现场观摩会”在联想武汉研发基地项目顺利召开，全国各地建设单位、咨询单位、监理单位、施工单位的相关领导以及同行业人员1000余人参加本次观摩，项目三维场布3D打印BIM沙盘取得了良好的效果，施工现场，一台3D打印机正一点点打印出“联想武汉研发基地施工模型”，吸引了众人目光。</p><img src='http://ojesqsnhi.bkt.clouddn.com/47-17.jpg' />",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

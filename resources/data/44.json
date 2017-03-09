@@ -1,0 +1,47 @@
+{
+	"title":"云微投应用",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/44-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"功能简介",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/44-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"工地应用场景",
+			"content":"<p>（1）看图纸：建筑图纸存储在云微投，无需携带纸质图纸，图纸展示任意投，随时随地看图纸<img src='http://ojesqsnhi.bkt.clouddn.com/44-2.jpg' /></p><p>（2）安全教育：为了保证工地施工安全，定期对工人进行安全施工课程，使用云微投进行安全教育，布线简单，对场地无特殊限制，有墙壁的地方都可以成为安全课堂 。</p><img src='http://ojesqsnhi.bkt.clouddn.com/44-3.jpg' />",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"商务应用场景",
+			"content":"<p>（1）320G的移动商务智能终端便携式商务无线智能投影，无论在哪里都可以把重要内容演示给对方。<img src='http://ojesqsnhi.bkt.clouddn.com/44-4.jpg' /><p>（2）320G的商务会议智能终端PC、手机一键上传会议文件至任屏，所有参会人员轻松下载观看，让商务会议进入智能高效的2.0时代。</p><img src='http://ojesqsnhi.bkt.clouddn.com/44-5.jpg' />",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"三大功能",
+			"content":"<p>（1）它是微型投影仪<img src='http://ojesqsnhi.bkt.clouddn.com/44-6.jpg' /><p>（2）它可以投屏分享,通过HDMI线缆连接电脑，直接投影当前内容。任何手机、任何电脑的画面都能轻松投影。支持一对多，多对多。</p><img src='http://ojesqsnhi.bkt.clouddn.com/44-7.jpg' /><p>（3）它是移动智能终端,U盘即插即投【兼容PPT、WORD、EXCEL、PDF等主流文件格式，随时随地演讲汇报】,移动工作站【接入WIFI，及时处理邮件，查询资料，重要事件，随时处理】，文件共享【手机文件、任屏文件随时上传/下载，移动终端之间也可共享屏幕】。<p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"特色配件",
+			"content":"<div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/44-8.jpg' />（图为地下室综合管线BIM排布图）<img src='http://ojesqsnhi.bkt.clouddn.com/37-2.jpg' />（标准配件）<img src='http://ojesqsnhi.bkt.clouddn.com/44-9.jpg' />（可选配件）</div>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"组网方式",
+			"content":"<img src='http://ojesqsnhi.bkt.clouddn.com/44-10.jpg' />",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

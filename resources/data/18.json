@@ -1,0 +1,37 @@
+{
+	"title":"磁力缓降安全逃生装置",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/18-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"百字解说词",
+			"content":"<p>近年来，超高层建筑的建造技术得到长足发展。然而，其建造过程中紧急逃生设施建设的难题一直没有得到解决。基于此，我们根据楞次定律设计出一种“非能动”逃生装置。利用装有永磁铁的逃生装置，人员可沿着固定在建筑上的铝管缓慢、匀速下滑。该装置已通过试验验证，通过后续优化和完善，不久将在实体工程中得以应用。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"展板1",
+			"content":"<p>国外建筑中配备较多的逃生装置主要有：逃生梯、逃生滑道、逃生舱以及楼梯转运椅等。国内公共建筑的大型逃生设备，如逃生舱、柔性滑道、救生气垫等；家用的小型逃生设备，如逃生软梯、缓降器、逃生绳等。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/18-1.jpg"
+			],
+			"summary":"<p>这类方式存在以下问题：</p><img src='http://ojesqsnhi.bkt.clouddn.com/18-2.jpg' /><p>我们借鉴楞次定律原理，创新提出并研发了一种“磁力缓降安全逃生装置”，可不依赖电能，灵活、高效、可靠地解决在施建筑人员疏散与应急逃生难题。<img src='http://ojesqsnhi.bkt.clouddn.com/18-3.jpg' /></p>"
+		},
+		{
+			"subtitle":"展板2",
+			"content":"<strong>1.磁力缓降逃生系统载重效率研究</strong><p>确定影响因素，通过有限元模拟计算，试验验证等方式确定载重效率-载重比。<img src='http://ojesqsnhi.bkt.clouddn.com/18-4.jpg' /></p><strong>2.磁力缓降逃生系统载重效率研究</strong><p>通过在现场的足尺试验得出，平均速度控制在1.5m/s的情况下，载重效率可以达到磁铁自重和负载之比可以达到1：15。<img src='http://ojesqsnhi.bkt.clouddn.com/18-5.jpg' /></p><strong>3.磁力缓降逃生系统附属装置的研究与试制</strong><p><strong>载人装置设计<strong>第一阶段：背包式载人装置设计，主要考虑进行载重效率试验。<img src='http://ojesqsnhi.bkt.clouddn.com/18-6.jpg' /><p>第二阶段：进一步考虑人体工学，进一步减轻装置的重量。<img src='http://ojesqsnhi.bkt.clouddn.com/18-7.jpg' /></p><p>第三阶段：设计站立式与骑乘式两种方式，实现装置从任意位置进入管路。<img src='http://ojesqsnhi.bkt.clouddn.com/18-8.jpg' /></p><strong>4.磁力缓降逃生系统足尺模型试验研究</strong><p>载人试验：同一人两种不同装置，同一载人装置两个不同的人进行试验，满足预期。<img src='http://ojesqsnhi.bkt.clouddn.com/18-9.jpg' /><p>装置优化：验证站立式载人装置旋转、锁死及载重效率。<img src='http://ojesqsnhi.bkt.clouddn.com/18-10.jpg' />验证骑乘式载人装置开合、锁死及载重效率。<img src='http://ojesqsnhi.bkt.clouddn.com/18-11.jpg' /></p><strong>5.磁力缓降逃生系统工程应用储备</strong><p><img src='http://ojesqsnhi.bkt.clouddn.com/18-12.jpg' />武汉绿地中心试验场地布置<img src='http://ojesqsnhi.bkt.clouddn.com/18-13.jpg' />武汉绿地中心试验平台布置</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/18-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"展板3",
+			"content":"<p>专利：</p><img src='http://ojesqsnhi.bkt.clouddn.com/18-14.jpg' /><p>三款近期定型的载人装置。<img src='http://ojesqsnhi.bkt.clouddn.com/18-15.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/18-16.jpg' /></p>",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

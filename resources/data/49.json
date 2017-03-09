@@ -1,0 +1,27 @@
+{
+	"title":"地铁隧道人员定位系统",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/49-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"主要功能",
+			"content":"<p><strong>一、考勤、精确定位:</strong>随时掌握每个隧道内人员的具体位置，做到精确定位；</p><p><strong>二、门禁系统:</strong>控制外部人员进入施工工地；</p><p><strong>三、视频监控:</strong>可打开视频监控画面，实时查看监控范围内的人、车状况；</p><p><strong>四、环境监测:</strong>实时监测有毒害气体（瓦斯、一氧化炭、液压、风速、地压），数据实时上传；</p><p><strong>五、LED大屏:</strong>直观显示隧道内各区域施工人员姓名、工种、进入隧道时间和人数。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"主要特点",
+			"content":"<p><strong>一、覆盖距离远:</strong>标识卡和读卡基站无线传输距离最大500米；</p><p><strong>二、考勤管理:</strong>记录所有隧道内人员的工作时间，对个人、部门进行考勤统计；</p><p><strong>三、紧急情况求救报警:</strong>当发生紧急情况时可以按报警按钮，求救信息及时到达隧道外；</p><p><strong>四、紧急情况下达撤离:</strong>下达撤离时，撤离信息能及时通知到每个人；</p><p><strong>五、高速不漏卡:</strong>经实践证明200张以60km/s的速度同时经过基站或读卡器时不发生漏卡现象；</p><p><strong>六、轨迹回放:</strong>可对人员和机车的运动轨迹进行跟踪回放，掌握其详细工作路线和时间。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"施工人员考勤、精确定位",
+			"content":"<img src='http://ojesqsnhi.bkt.clouddn.com/49-1.jpg' /><p>设计原理：每个洞口放置2个读卡器作考勤用，读卡主站信号覆盖范围为直径800m至1000m，两个读卡主站相隔800m距离。读卡辅站协助读卡辅站作精确定位。定位数据通过网桥无线传输到隧道口监控室。在洞口监控室接入外部网络，业主单位或项目部在任意网络环境下也可以远程查看定位信息。</p>",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

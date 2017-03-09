@@ -1,0 +1,5 @@
+<div class="cate-list">
+	<div class="item" ng-repeat="data in myData">
+		<a ng-class="{active: selectedNavItem == data.href}" ng-click="itemClick(data.href)" href="#{{data.href}}">{{data.name}}</a>
+	</div>
+</div>

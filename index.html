@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+	<meta charset="UTF-8">
+	<title>武汉市创建智慧工地现场观摩交流会</title>
+	<!--允许全屏--> 
+	<meta content="yes" name="apple-mobile-web-app-capable"> 
+	<meta content="yes" name="apple-touch-fullscreen"> 
+	<meta content="telephone=no,email=no" name="format-detection"> 
+	<script src="http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js"></script> 
+	<link rel="apple-touch-icon" href="favicon.png"> 
+	<link rel="Shortcut Icon" href="favicon.png" type="image/x-icon">
+	<link rel="stylesheet" href="resources/css/style.min.css">
+	<script src="./resources/plugins/angular/angular.min.js"></script>
+	<script src="./resources/plugins/angular/angular-route.min.js"></script>
+	<script src="./resources/plugins/angular/angular-animate.min.js"></script>
+	<script src="./resources/plugins/angular/angular-sanitize.min.js"></script>
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="./resources/plugins/jwplayer/jwplayer.js"></script>
+	<script src="./resources/plugins/jwplayer/jwpsrv.js"></script>
+	<script src="./resources/js/main.js"></script>
+</head>
+<body>
+	<div style='margin:0 auto;width:0px;height:0px;overflow:hidden;'>
+		<img src="http://ojesqsnhi.bkt.clouddn.com/shareThumb.jpg">
+	</div>
+	<div class="container">
+		<cate-list my-data="dataList" ng-controller="myCtrl"></cate-list>
+		<div ng-view>
+			
+		</div>
+		
+	</div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+	"title":"棒材计数",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/29-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"系统简介",
+			"content":"<p>棒材计数系统依托于便携式棒材计数仪，通过拍摄钢筋等棒材的端面图像，实现进场棒材的自动点数与验收，可大大提高点数速度，管理人员通过系统保存现场照片和验收记录，可以有效监控材料验收作业，防止材料虚报。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"系统功能",
+			"content":"<p><strong>（1）收货记录；</strong></p><p><strong>（2）端面拍照；</strong></p><p><strong>（3）自动计数；</strong></p><p><strong>（4）手动调整；</strong></p><p><strong>（5）交接报告。</strong></p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/29-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"系统特点",
+			"content":"<p><strong>高精度图像识别：</strong>采用高精度图像专利识别算法，识别率可达90%以上；</p><p><strong>工业级智能终端：</strong>采用7寸工业级野外专用安卓平板电脑，IP67以上防尘、防浸等级；</p><p><strong>适应夜间拍摄要求：</strong>支持800万像素以上双高清摄像头，可加配背贴式闪光灯，符合工地户外夜间收货要求；</p><p><strong>携带使用方便：</strong>配置手持带防止拍照抖动；配置电容笔便于点选图像。</p><div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/29-2.jpg' />（软件界面图）<img src='http://ojesqsnhi.bkt.clouddn.com/29-3.jpg' />（夜间验收应用效果）</div>",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

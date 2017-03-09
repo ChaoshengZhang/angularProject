@@ -1,0 +1,18 @@
+{
+	"title":"隐患整改APP",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/3-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"移动终端应用",
+			"content":"<p>项目管理人员对项目进行现场检查，到达蓝牙信号覆盖区域，登录现场管理APP，点击对应模块，选择巡检部位、拍照记录检查情况。其中对不符合标准的检查项要视危险严重情况来决定是否发整改，并填写发整改基本信息，工长可在现场实时收到整改通知单，并在整改完成后通过现场管理APP进行回复。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/3-1.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/3-2.jpg"
+			],
+			"summary":""
+		}
+	],
+	"endword":""
+}

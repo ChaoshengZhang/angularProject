@@ -1,0 +1,27 @@
+{
+	"title":"自动感应实名制系统",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/45-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"功能介绍",
+			"content":"<p>武汉市海发科技有限公司，是一家以计算机软/硬件，网络技术为基础，专业从事信息技术、大数据及视频监控的开发与应用，并提供专业弱电系统集成的综合性科技公司。公司凝聚了一批高水平的专业技术人才和高素质的管理人才，经过几年的不断创新和锐意进取，海发已经逐步发展成为集应用研究、开发、设计和施工为一体的综合性企业。经营范围逐步发展为以系统集成、网络安全、应用开发、视频会议、安防监控、无线网络、综合布线、灯光音响、技术服务等全方位多元化的经营服务模式。</p><p>海发自成立之日起就十分重视产品开发和技术创新，积极引进了高水平的技术研发人员，目前已拥有一支数十人的专业研发队伍，与华师、华中科大等科研机构建立了紧密合作关系。与CISCO、IBM、HP、DELL、Commscope、POLYCOM、PANASONIC、SONY、SUMSUNG等国际性的大公司及港湾、联想、浪潮、同方、方正、鼎视通等国内知名企业在不同的技术领域建立了密切的合作关系，随时掌握世界最先进的网络技术。公司已于中建三局集团有限公司、中铁隧道集团、中铁一局、中铁四局、中国铁十四局、中建四局、五局、八局等公司建立合作关系，并以武汉为中心，辐射全国，已在湖北、湖南、河南、江西、安徽、甘肃等建立了办事处，为客户提供快速、优质的服务。</p><div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/45-1.jpg' />（门禁系统拓扑图）<img src='http://ojesqsnhi.bkt.clouddn.com/45-2.jpg' /></div>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"门禁系统组成部分",
+			"content":"<p><strong>1、识别设备：</strong>带有WG26、34或485通讯协议输出的读卡器，如：身份证识别、掌静脉识别仪、指纹识别仪、密码读卡器、IC/ID读卡器等。<img src='http://ojesqsnhi.bkt.clouddn.com/45-3.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/45-4.jpg' /></p><p><strong>2、感应设备：</strong>必须与对应的识别设备相对应。<img src='http://ojesqsnhi.bkt.clouddn.com/45-5.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/45-6.jpg' /></p><p><strong>3、门禁控制器：</strong>门禁控制器有485联网单门/双门/四门控制器、TCPIP单门/双门/四门控制器、电梯楼层控制器、闸机门禁控制器、掌静脉门禁、ID/ID门禁一体机、楼宇嵌入式门禁、不联网写扇区门禁等。门禁控制器是存储感应卡权限和刷卡记录，并中央处理所有读卡器上传信号，负责和计算机通讯和其他数据存储器协调，配合管理软件的智能处理中心，所有联网型门禁控制器可集中在一个门禁管理软件中管理。<img src='http://ojesqsnhi.bkt.clouddn.com/45-7.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/45-8.jpg' /></p><p><strong>4、执行设备：</strong>电动执行设备，可以使用专用的门禁控制器控制闸机或停车场等所有带电设备，以实现设备智能化人性化控制要求。<img src='http://ojesqsnhi.bkt.clouddn.com/45-9.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/45-10.jpg' /></p><p><strong>5、网络摄像机：</strong>通过网络摄像机可以实现各种状态下的抓拍、录像、动态监控、人员位置的反馈。<img src='http://ojesqsnhi.bkt.clouddn.com/45-11.jpg' /></p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"部分案例",
+			"content":"<div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/45-12.jpg' />（中建三局总包湖北省公安厅项目）<img src='http://ojesqsnhi.bkt.clouddn.com/45-13.jpg' />（中建三局总包武汉大学体育中心项目）<img src='http://ojesqsnhi.bkt.clouddn.com/45-14.jpg' />（武汉地铁8号线中铁十四局过江项目）<img src='http://ojesqsnhi.bkt.clouddn.com/45-15.jpg' />（常发集团盘龙湾荷苑项目）<img src='http://ojesqsnhi.bkt.clouddn.com/45-16.jpg' />（中建三局合肥工业产业园项目）<img src='http://ojesqsnhi.bkt.clouddn.com/45-17.jpg' />（中建四局武汉十堰高铁箱梁项目）</div>",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

@@ -1,0 +1,37 @@
+{
+	"title":"移动终端及实测实量",
+	"describle":"移动终端作为项目现场管理信息系统使用方式的拓展，实现了真正移动办公。",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/7-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"单机版PC端",
+			"content":"<p>办公地点固定，使办公受地域限制；</p><p>对现场信息不能及时上行反馈，计划、整改等信息不能及时下行接收；</p><p>存在离线手工录入、两次录入的问题。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"移动终端",
+			"content":"<p>实现移动办公，办公更加灵活；</p><p>对施工动态可以时刻了解，并第一时间传递信息；</p><p>与现场管理系统关联，信息一次成型。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"移动终端信息流程",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/7-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"质量管理应用示例",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/7-2.jpg"
+			],
+			"summary":""
+		}
+	],
+	"endword":""
+}

@@ -1,0 +1,36 @@
+{
+	"title":"节水节电措施",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/21-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"展点正面",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/21-1.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/21-2.jpg"
+			],
+			"summary":"<p>使用地下水、雨水收集循环系统，收集基坑施工产生的地下水和雨水,通过三级沉淀池处理后,用于清洗车辆和路面、板房降温、花草养护等,实现施工现场水资源循环再利用。</p>"
+		},
+		{
+			"subtitle":"展点侧面1",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/21-3.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/21-4.jpg"
+			],
+			"summary":"<p>地下室、塔吊、安全通道等地方使用LED节能灯带，施工现场及生活区均使用限时低压照明系统，节能、环保、安全。</p>"
+		},
+		{
+			"subtitle":"展点侧面2",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/21-5.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/21-6.jpg"
+			],
+			"summary":"<p>生活区使用空气能热水器、太阳能路灯，减少对传统能源的依赖。</p>"
+		}
+	],
+	"endword":""
+}

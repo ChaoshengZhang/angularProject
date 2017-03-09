@@ -1,0 +1,31 @@
+{
+	"title":"全自动智能监测方法",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/11-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"基坑情况",
+			"content":"<p>武汉绿地中心基坑长300米，宽120米，周长840米，按正常步速，紧走一圈需要15分钟。若按传统方法进行基坑监测数据采集，责将耗费大量的人力与时间，同时无法保证数据的同步性。</p><p>本工程通过预埋的应力应变传感器，可在数秒内同时提取多项数据，同步率达到100%，对基坑建造过程中的安全动态控制提供有力支撑。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"基坑建造阶段无线传感安全监测",
+			"content":"<p>本工程通过对相关安全与变形控制指标的进行变形监测，对基坑建造过程进行安全动态控制。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/11-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"关键监测数据数据分析",
+			"content":"",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/11-2.jpg"
+			],
+			"summary":""
+		}
+	],
+	"endword":""
+}

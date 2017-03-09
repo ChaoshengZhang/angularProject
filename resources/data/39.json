@@ -1,0 +1,33 @@
+{
+	"title":"钢筋工程BIM应用技术研究",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/39-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"百字介绍",
+			"content":"<p>钢筋工程BIM技术应用多年来一直是BIM技术落地应用的难点，中建三局工程技术研究院自主研发的基于BIM的钢筋三维高效建模、智能断料、套料优化、料单转换、数控加工等一系列技术成果，突破性的解决了钢筋工程BIM应用的难题。实现了钢筋加工的精准化翻样、精细化加工、精确化管控，为传统钢筋加工方式升级注入新鲜活力。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"展板1",
+			"content":"<p>利用BIM及其二次开发技术，结合相关设计文件及图集规范要求，在三维模型中进行钢筋效率化建模与智能化翻样，根据项目需要，可对复杂节点的钢筋模型进行综合优化，保证施工可行性，完成钢筋翻样后，利用BIM模型自动导出钢筋料单，并通过料单处理程序自动导出加工、打包、安装等后续所需的各类应用料单，同时将钢筋加工料单转换为钢筋数控设备可识别的数据格式传递至加工设备中，工人生产过程中利用移动终端即可完成加工任务参数的自动输入，提高生产作业效率。</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-1.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/39-2.jpg' /><p>基于BIM技术的钢筋工程整体流程:</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-3.jpg' />",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"展板2",
+			"content":"<strong>1.BIM翻样高效建模</strong><p>二次开发工作流程及协同方式</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-4.jpg' /><p>以独立基础为例，常规方式建模配筋需要10min，应用CSCEC3B_钢筋智能组件，设置混凝土参数、配筋信息等相关数据，一键式完成钢筋布置，仅仅耗时30s。</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-5.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/39-6.jpg' /><strong>2.BIM翻样料单与数据传递</strong><p>基于数据处理有效性和信息传递的唯一性需求，设计定义了钢筋编码、形状编码、钢筋零件、构件编码系统等，应用自开发的料单处理程序，自动进行料单的数据整理及生成钢筋加工所需加工单、分拣单、绑扎单的表单，套料优化功能依据钢筋原材定尺长度对料单数据进行加工优化组合。</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-7.jpg' /><strong>3.数控加工</strong><p>基于BIM的钢筋加工有效提高钢筋施工的作业效率、降低了劳动强度与材料损耗、保证了钢筋加工的质量、加强了钢筋施工的过程管理、促进了钢筋工程信息化的发展，将成为传统土建行业产业化升级的重要一环，对于实现具备信息化能力的产业化至关重要。</p><p>钢筋数控加工生产流程:</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-8.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/39-9.jpg' /><strong>4.钢筋工程信息化应用</strong><p>利用钢筋BIM云管理平台，对钢筋的加工的全过程信息进行管理，钢筋加工任务产生后，将钢筋加工料单上传至钢筋BIM云管理系统，在云平台中进行料单分解合并、任务分配、生产管理、动态追踪、信息查询、效率统计、数据展示、打印输出料牌等功能应用，利用软件数据库自动记录、统计生产过程数据，同时在钢筋半成品的存储、运输、安装、验收过程中，通过对钢筋的编码与识别系统设计，应用物联网技术以及相应的识别系统，通过手持终端随时查看钢筋施工全过程信息。</p><p>云管理系统开发</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-10.jpg' /><p>钢筋信息化配送技术方案研究与实施</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-11.jpg' /><p>自动生成材料报表，精确展现原材料消耗及库存情况，提高钢筋计划的准确性。</p><p>生产过程管理功能介绍：</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-12.jpg' /><p>二维码彩色标签的应用：扫描二维码可方便快捷地录入、查询相关信息，不同颜色又能直观地区分不同属性的钢筋。</p><p>其他功能介绍：</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-13.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/39-14.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/39-15.jpg' /><p>前端APP应用，功能唯一性，后台大数据库，可实时收集相关信息，解决材料消耗、加工生产、库存管理、配送运输等环节实时反馈、状态追踪以及相关数据报表统计工作。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"展板3",
+			"content":"<strong>工程应用情况：</strong><p>天河机场三期扩建工程停车楼T-W-5和T-W-6区（建筑面积约11040㎡）的施工过程中，钢筋翻样全部采用了基于BIM的钢筋数控加工工法，共加工生产钢筋半成品1450t，软件钢筋翻样效率较传统手翻提高12%以上，钢筋原材加工利用率达99.51%，经济效益率28.8%。</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-16.jpg' /><p>湖北省科技馆新馆项目主馆区域（建筑面积约为23300㎡）的施工过程中，钢筋翻样全部采用了基于BIM的钢筋三维高效建模与智能翻样施工工法。共加工生产钢筋半成品2787t，软件钢筋翻样效率较传统手翻提高27%以上。</p><img src='http://ojesqsnhi.bkt.clouddn.com/39-17.jpg' /><strong>推广前景：</strong><p>钢筋工程BIM技术应用研究，为基于BIM的钢筋协同翻样及集约化数控加工新模式奠定了基础，采用真三维软件高效建模、智能断料、钢筋套料自动优化、料单数据与数控机械的传递，操作简单、数据精准、料单现场适用性强，充分发挥BIM技术优势，通过技术推动作业效率和生产力水平提升，节约成本，加快施工进度，降低钢筋损耗及人工劳动强度，有利于现场安全文明施工，经济和社会效益显著，将有效提升钢筋翻样质量及效率、促进钢筋加工产业化升级、提升钢筋配送质量与管理水平。</p>",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

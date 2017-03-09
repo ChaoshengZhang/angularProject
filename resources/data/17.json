@@ -1,0 +1,26 @@
+{
+	"title":"便携式周界防护系统",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/17-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"简介",
+			"content":"<p><strong>便携式周界防护</strong>利用可移动的红外对射装置，在临建危险区域（破损护栏附近或洞口四边）放置红外对射进行防护，当有人进入防区遮断对射之间的红外光束时，立即触发报警。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/17-1.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"特点",
+			"content":"<p><strong>便携度高</strong>整套设备重量10kg以内，配置三角形便携式可调支架，满足周界、洞口、临边的防护。</p><p><strong>探测距离远</strong>采用微型红外光束，最远探测距离可达250米，最近可达5米。</p><p><strong>报警时长可调</strong>允许自行设置声光报警持续时间，最短可达1秒。</p><p><strong>续航时间长</strong>采用锂电池设计，可以支持2天不间断防护。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/17-2.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/17-3.jpg"
+			],
+			"summary":""
+		}
+	],
+	"endword":""
+}

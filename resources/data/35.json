@@ -1,0 +1,24 @@
+{
+	"title":"实景扫描技术在基础设施中的运用",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/35-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"实景技术简介",
+			"content":"<strong>实景扫描技术主要技术原理</strong><p>现实的场景通过高清晰度照片或扫描等方式收集，运用专业处理软件进行实景模型生成并进行应用，通过图像及影像软件进行数据成果导出，形成3D实景模型，可获取点线面的相关测量。</p>",
+			"imgList":[
+				"http://ojesqsnhi.bkt.clouddn.com/35-1.jpg",
+				"http://ojesqsnhi.bkt.clouddn.com/35-2.jpg"
+			],
+			"summary":""
+		},
+		{
+			"subtitle":"主要运用点",
+			"content":"<img src='http://ojesqsnhi.bkt.clouddn.com/35-3.jpg' /><strong>（1）原地面复测</strong><p>实景扫描的3D模型是以现场拍照的照片和视频作为模型生成的依据，所以模型是现场100%真实反映。直接在该实景模型中插入路基线路，将路线转可以提取高程的点，换提取路基线路上的高程数据，获取原地面复测数据。</p><img src='http://ojesqsnhi.bkt.clouddn.com/35-4.jpg' /><p>建立好的设计模型与实景模型进行同基点插入，检验bim模型与周围环境的匹配协调问题，解决工程中常遇到的红线范围不足、涵洞出入水口顺接偏差、隧道口与山体对接问题等的问题，提前进行变更。</p><img src='http://ojesqsnhi.bkt.clouddn.com/35-5.jpg' /><strong>（2）平面规划</strong><p>对预制梁场、混凝土搅拌站场地布置采用BIM技术进行初步布置设计。确定临建场地后，在3D实景模型中将已建好的主要设备和设施在模型中进行安插放置，实时进行布置调整，进行初步规划设计。</p><img src='http://ojesqsnhi.bkt.clouddn.com/35-6.jpg' /><strong>（3）路基填挖方量复核</strong><p>对实景3D模型进行处理，转换成为地形模型，在PowerCivil中进行编辑生成三维地形，在模型中绘制出路基线路，输入线路纵断面信息，编辑路基形式，点击软件中的功能键自动生成工程量。</p><img src='http://ojesqsnhi.bkt.clouddn.com/35-7.jpg' />设置路基界面并导入。<img src='http://ojesqsnhi.bkt.clouddn.com/35-8.jpg' />形成地形模型，插入路基线。<img src='http://ojesqsnhi.bkt.clouddn.com/35-9.jpg' />自动生成土石方填挖方工程量<strong>（4）工程量计算及复核</strong><p>计算原理是将各阶段实景模型之间及实景模型与bim模型之间进行对比，采用布尔算法，来确定工程的已完成量、未完成量、已完成比例、未完成比例、周期时间的完成量等进度管理信息。</p><img src='http://ojesqsnhi.bkt.clouddn.com/35-10.jpg' /><strong>（5）复杂施工方案模拟</strong><p>按照隧道设计的照明条件，建立模拟模型，按照道路设计时速80km/h模拟车辆进出隧道，模拟行车进出隧道时人的视觉变化情况，为隧道内安装工程的优化提供依据。</p><img src='http://ojesqsnhi.bkt.clouddn.com/35-11.jpg' /><p>使用BIM模型与实景3D模型结合的方式进行预制梁场建设方案规划和预制梁运架的方案模拟。</p><img src='http://ojesqsnhi.bkt.clouddn.com/35-12.jpg' /><strong>（6）进度管理</strong><p>采用定期进行无人机扫描形成实景模型检查现场施工的形式，与BIM模型进行对比分析，真实反映现场进展及时进行纠偏，在进度管理会议上利用实景模型给业主进行汇报与规划，大大提高会议效率与数据准确性。</p>",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}

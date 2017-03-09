@@ -1,0 +1,51 @@
+{
+	"title":"一卡通管理系统",
+	"describle":"",
+	"mainImgSrc":"",
+	"audioSrc":"http://ojesqsnhi.bkt.clouddn.com/48-audio.mp3",
+	"typical":[
+		{
+			"subtitle":"主要硬件配置",
+			"content":"<p><strong>一、三棍闸机:</strong>完成指定闸机主控板安装，代码调试与软件平台对接；</p><p><strong>二、IC卡读头:</strong>更新闸机读头；</p><p><strong>三、发卡器:</strong>安装指定微耕发卡器；</p><p><strong>四、身份证阅读器:</strong>身份证阅读器无缝对接；</p><p><strong>五、IC门禁卡:</strong>系统授权更新门禁卡。</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"",
+			"content":"<div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/48-1.jpg' />（工人刷手环进出）<img src='http://ojesqsnhi.bkt.clouddn.com/48-2.jpg' />（手环代替门禁卡）<img src='http://ojesqsnhi.bkt.clouddn.com/48-3.jpg' />（放手环洗澡应用）",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"信息管理平台",
+			"content":"<img src='http://ojesqsnhi.bkt.clouddn.com/48-4.jpg' />",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"劳务管理员专职化",
+			"content":"<img src='http://ojesqsnhi.bkt.clouddn.com/48-5.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/48-6.jpg' />",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"应用成果",
+			"content":"<p>1.基本权益保障；2.后勤管理信息化；3.平安工地构建；4.用工诚信管理；5.项目管理预控；</p>",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"劳务工人基本权益彰显",
+			"content":"<div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/48-7.jpg' />（农民工党员身份彰显）<img src='http://ojesqsnhi.bkt.clouddn.com/48-8.jpg' />（考勤工资实时结算）",
+			"imgList":[],
+			"summary":""
+		},
+		{
+			"subtitle":"银行工人工资代发",
+			"content":"<div class='imgTextCenter'><img src='http://ojesqsnhi.bkt.clouddn.com/48-9.jpg' />（与银行签定工资代发协议，建立劳务工人工资专用账户）<img src='http://ojesqsnhi.bkt.clouddn.com/48-10.jpg' /><img src='http://ojesqsnhi.bkt.clouddn.com/48-11.jpg' />（刷卡参与安全教育，真实记录培训信息，建立劳务工人工资专用账户）<img src='http://ojesqsnhi.bkt.clouddn.com/48-12.jpg' />（项目管控基础数据分析——劳动力计划分析）<img src='http://ojesqsnhi.bkt.clouddn.com/48-13.jpg' />（项目管控基础数据分析——工效分析）<img src='http://ojesqsnhi.bkt.clouddn.com/48-14.jpg' />（后勤消费拓展与实名制管理共赢）<img src='http://ojesqsnhi.bkt.clouddn.com/48-15.jpg' />（门禁副卡后勤消费功能附加）",
+			"imgList":[],
+			"summary":""
+		}
+	],
+	"endword":""
+}
